@@ -21,4 +21,5 @@ To develop an accurate speech sentiment recognition model that can classify spok
    - The output layer has 7 neurons, one for each possible emotion.
 
 ## Notes and Relevant Links
- 
+ This project has been inspired from - https://github.com/x4nth055/emotion-recognition-using-speech
+ Dataset Link - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
